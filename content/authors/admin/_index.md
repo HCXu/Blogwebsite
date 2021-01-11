@@ -68,4 +68,4 @@ email: "henryhcxu@gmail.com"
 highlight_name: false
 ---
 
-Hello from Vancouver, BC, Canada. I am a structural engineer who embraces all kind of technology and knowledge. My passion is to design all tall buildings to be resilient during the earthquake. I am doing seismic design in most of my time. Whenever there is a break, I'd like to do some reading with broader scopes amd explor new possibilities that may come to my field in the future.
+Hello from Vancouver, BC, Canada. I am a structural engineer who embraces all kind of technology and knowledge. My passion is to design all tall buildings to be resilient during the earthquake. I am doing seismic design in most of my time. Whenever there is a break, I'd like to do some reading with broader scopes amd explore new possibilities that may come to my field in the future.
